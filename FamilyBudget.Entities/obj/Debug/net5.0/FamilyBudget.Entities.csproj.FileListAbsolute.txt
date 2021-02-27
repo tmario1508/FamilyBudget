@@ -1,0 +1,12 @@
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\bin\Debug\net5.0\FamilyBudget.Entities.deps.json
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\bin\Debug\net5.0\FamilyBudget.Entities.dll
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\bin\Debug\net5.0\ref\FamilyBudget.Entities.dll
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\bin\Debug\net5.0\FamilyBudget.Entities.pdb
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\obj\Debug\net5.0\FamilyBudget.Entities.csprojAssemblyReference.cache
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\obj\Debug\net5.0\FamilyBudget.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\obj\Debug\net5.0\FamilyBudget.Entities.AssemblyInfoInputs.cache
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\obj\Debug\net5.0\FamilyBudget.Entities.AssemblyInfo.cs
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\obj\Debug\net5.0\FamilyBudget.Entities.csproj.CoreCompileInputs.cache
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\obj\Debug\net5.0\FamilyBudget.Entities.dll
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\obj\Debug\net5.0\ref\FamilyBudget.Entities.dll
+C:\Maestria\2do Cuatrimestre\03MTW204\Ejercicio1\FamilyBudget\FamilyBudget.Entities\obj\Debug\net5.0\FamilyBudget.Entities.pdb
