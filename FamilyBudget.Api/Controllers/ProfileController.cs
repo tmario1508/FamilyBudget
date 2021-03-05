@@ -12,6 +12,7 @@ namespace FamilyBudget.Api.Controllers
     public class ProfileController : ControllerBase
     {
 
+        int Deleted = 1;
         private readonly IProfileService _profileService;
 
         public ProfileController(IProfileService profileService)
@@ -25,6 +26,7 @@ namespace FamilyBudget.Api.Controllers
         {
             var profiles = await _profileService.GetAll();
             return Ok(profiles);  // Status code 200
+
         }
 
         [HttpGet]

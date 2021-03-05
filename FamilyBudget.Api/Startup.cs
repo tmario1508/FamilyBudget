@@ -47,6 +47,15 @@ namespace FamilyBudget.Api
             services.AddScoped<IUserRepository,UserRepository>();
             services.AddScoped<IProfileRepository,ProfileRepository>();
 
+            services.AddCors(opt => {
+                opt.AddPolicy("CorsPolicy", policy => {
+
+                    policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");
+
+                });
+            });
+
+
             ConfigureSqlMapperExtensions();
 
         }
@@ -99,6 +108,8 @@ namespace FamilyBudget.Api
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors("CorsPolicy");
 
             app.UseEndpoints(endpoints =>
             {

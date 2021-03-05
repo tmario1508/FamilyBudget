@@ -48,7 +48,7 @@ namespace FamilyBudget.Api.Repository
             _conn.Close();
 
             return profiles;
-        }
+        } 
 
         public async Task<Profile> GetById(int id)
         {
