@@ -1,0 +1,3 @@
+[submodule "familybudget-app"]
+	path = familybudget-app
+	url = https://github.com/tmario1508/FamilyBudget.git
