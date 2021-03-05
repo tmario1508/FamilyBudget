@@ -1,5 +1,6 @@
 import axios,{AxiosResponse} from 'axios';
 import IUser from '../app/modules/user';
+import IProfile from '../app/modules/profile';
 
 axios.defaults.baseURL = 'https://localhost:5001/api/';
 
@@ -18,6 +19,14 @@ const User = {
     update : (user:IUser) => request.put('user',user),
 }
 
+const Profile = {
+    list : () => request.get('profile') ,
+    create : (profile:IProfile) => request.post('profile',profile),
+    update : (profile:IProfile) => request.put('profile',profile),
+}
+
 export default{
-    User
+    User,
+    Profile
+
 }
